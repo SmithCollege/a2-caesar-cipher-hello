@@ -35,4 +35,4 @@ Hayley: This assignment was difficult to understand at first but over time it ma
 
 Vivian: I think the assignment was helpful in understand our previous work with dynamic array. It was difficult(but ultimately helpful) working in a new environment(gradle, github classroom) with little instruction on how exactly to implement the cipher. 
 
-Melissa: The assignment helped me with thinking to the "tiniest" of details to make sure that the program was functional overall. While it was initially challenging, it was pleasant working with a team using unfamiliar tools and thinking differently to implement a caesar cipher.  
+Melissa: The assignment helped me with thinking to the "tiniest" of details to make sure that the program was functional overall. While it was initially challenging, it was pleasant working with a team using unfamiliar tools and thinking differently to implement a caesar cipher. 
